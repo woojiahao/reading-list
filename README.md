@@ -4,6 +4,9 @@ Credits to [/u/CSMastermind](https://www.reddit.com/user/CSMastermind) for creat
 * [Part 2](https://www.reddit.com/r/learnprogramming/comments/83xyow/must_read_books/dvmpmfs/)
 * [Part 3](https://www.reddit.com/r/learnprogramming/comments/83xyow/must_read_books/dvmpn75/)
 
+More reading list resources:
+* [The Ultimate Reading List for Developers](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
+
 ## Job Interview Prep
 * Cracking the Coding Interview: 189 Programming Questions and Solutions
 * Programming Interviews Exposed: Coding Your Way Through the Interview
